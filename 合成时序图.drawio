@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T07:15:21.243Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="5PgyL3N_gXIitzp-d9t6" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T07:20:20.781Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="dcHkrjipn80Zzdo69zEC" version="20.2.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1166" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
         <mxCell id="5A6tOy5ZmiSLIlXqqt9k-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="u79UOQJMdPNoBrVsTCho-1">
           <mxGeometry x="50" y="310" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5A6tOy5ZmiSLIlXqqt9k-27" value="self call" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="5A6tOy5ZmiSLIlXqqt9k-26" parent="u79UOQJMdPNoBrVsTCho-1">
+        <mxCell id="5A6tOy5ZmiSLIlXqqt9k-27" value="拼图后人脸识别" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="5A6tOy5ZmiSLIlXqqt9k-26" parent="u79UOQJMdPNoBrVsTCho-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="290" as="sourcePoint" />
             <Array as="points">
@@ -302,9 +302,10 @@
             <mxPoint x="355" y="816" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u79UOQJMdPNoBrVsTCho-125" value="回调通知开始合成" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;rounded=0;" parent="1" source="u79UOQJMdPNoBrVsTCho-117" target="u79UOQJMdPNoBrVsTCho-124" edge="1">
+        <mxCell id="u79UOQJMdPNoBrVsTCho-125" value="回调通知开始合成" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="750" as="sourcePoint" />
+            <mxPoint x="910" y="761" as="sourcePoint" />
+            <mxPoint x="640" y="761" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u79UOQJMdPNoBrVsTCho-133" value="回调通知合成完成" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;rounded=0;" parent="1" source="u79UOQJMdPNoBrVsTCho-117" target="u79UOQJMdPNoBrVsTCho-132" edge="1">
