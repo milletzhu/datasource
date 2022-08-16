@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T14:47:24.878Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="R-tXq8bnWZ2XMmIHEeLt" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T14:49:35.509Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="J9Ko9o9Bw9lseaQ44wFY" version="20.2.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1935" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1605" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,7 +90,7 @@
           <mxGeometry x="70" y="680" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rBN6wQHvt3Dz5fo0-YgQ-124" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rBN6wQHvt3Dz5fo0-YgQ-121">
-          <mxGeometry x="70" y="780" width="10" height="350" as="geometry" />
+          <mxGeometry x="70" y="780" width="10" height="430" as="geometry" />
         </mxCell>
         <mxCell id="rBN6wQHvt3Dz5fo0-YgQ-125" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rBN6wQHvt3Dz5fo0-YgQ-121">
           <mxGeometry x="75" y="160" width="10" height="20" as="geometry" />
@@ -115,24 +115,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rBN6wQHvt3Dz5fo0-YgQ-134" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rBN6wQHvt3Dz5fo0-YgQ-121">
-          <mxGeometry x="75" y="880" width="10" height="40" as="geometry" />
+          <mxGeometry x="75" y="990" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rBN6wQHvt3Dz5fo0-YgQ-135" value="保存作品，上传文件" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="rBN6wQHvt3Dz5fo0-YgQ-121" target="rBN6wQHvt3Dz5fo0-YgQ-134">
+        <mxCell id="rBN6wQHvt3Dz5fo0-YgQ-135" value="生成用户作品动图" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="rBN6wQHvt3Dz5fo0-YgQ-121" target="rBN6wQHvt3Dz5fo0-YgQ-134">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="860" as="sourcePoint" />
+            <mxPoint x="80" y="970" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="110" y="860" />
+              <mxPoint x="110" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rBN6wQHvt3Dz5fo0-YgQ-137" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rBN6wQHvt3Dz5fo0-YgQ-121">
-          <mxGeometry x="80" y="1000" width="10" height="40" as="geometry" />
+          <mxGeometry x="80" y="1110" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rBN6wQHvt3Dz5fo0-YgQ-138" value="更新缓存为已完成状态" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="rBN6wQHvt3Dz5fo0-YgQ-121" target="rBN6wQHvt3Dz5fo0-YgQ-137">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="85" y="980" as="sourcePoint" />
+            <mxPoint x="85" y="1090" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="115" y="980" />
+              <mxPoint x="115" y="1090" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -143,6 +143,17 @@
               <mxPoint x="-60" y="840" />
             </Array>
             <mxPoint x="70" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rBN6wQHvt3Dz5fo0-YgQ-220" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="rBN6wQHvt3Dz5fo0-YgQ-121">
+          <mxGeometry x="75" y="870" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rBN6wQHvt3Dz5fo0-YgQ-221" value="添加水印" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="rBN6wQHvt3Dz5fo0-YgQ-220" parent="rBN6wQHvt3Dz5fo0-YgQ-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="850" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="110" y="850" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rBN6wQHvt3Dz5fo0-YgQ-139" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
@@ -351,12 +362,12 @@
             <mxPoint x="1040" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rBN6wQHvt3Dz5fo0-YgQ-209" value="进度100%，获取合成视频地址" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" source="rBN6wQHvt3Dz5fo0-YgQ-116" target="rBN6wQHvt3Dz5fo0-YgQ-121">
+        <mxCell id="rBN6wQHvt3Dz5fo0-YgQ-209" value="进度100%，获取合成视频地址" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="470" y="1150" as="sourcePoint" />
-            <mxPoint x="530" y="1140" as="targetPoint" />
+            <mxPoint x="455" y="1243" as="sourcePoint" />
+            <mxPoint x="644.4999999999995" y="1243" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="1140" />
+              <mxPoint x="590" y="1243" />
             </Array>
           </mxGeometry>
         </mxCell>
