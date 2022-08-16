@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T11:19:09.258Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="wSMeFG1En1BzRx2ZUDrO" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T11:21:04.684Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2V2-e_Nb827BOYxg1reZ" version="20.2.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1958" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -433,10 +433,16 @@
           <mxGeometry x="-90" y="1970" width="610" height="240" as="geometry" />
         </mxCell>
         <mxCell id="5A6tOy5ZmiSLIlXqqt9k-47" value="并发1路：59ms&lt;br&gt;并发2路：84ms&lt;br&gt;并发3路：112ms" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fontFamily=Helvetica;fontSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="630" width="290" height="90" as="geometry" />
+          <mxGeometry x="1040" y="720" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5A6tOy5ZmiSLIlXqqt9k-48" value="线上阿卡贝拉模板拼图4宫格，&lt;br&gt;调用底层发起合成到接收合成完成间隔时间" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;fontFamily=Helvetica;fontSize=12;fontColor=default;html=1;" parent="5A6tOy5ZmiSLIlXqqt9k-47" vertex="1">
           <mxGeometry width="290" height="25" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DsGzHDaMotTjCSLBO4SI-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="u79UOQJMdPNoBrVsTCho-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="810" as="sourcePoint" />
+            <mxPoint x="1040" y="760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
