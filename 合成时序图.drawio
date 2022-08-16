@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T11:21:04.684Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2V2-e_Nb827BOYxg1reZ" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T12:15:16.862Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="0hx24nNwAMTsG0Z-O6ho" version="20.2.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1958" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1718" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -420,7 +420,7 @@
             <mxPoint x="90" y="2020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5A6tOy5ZmiSLIlXqqt9k-42" value="&lt;pre style=&quot;margin-top: 0px; margin-bottom: 0px; padding: 0px; box-sizing: border-box; font-family: Helvetica, &amp;quot;Open Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; overflow-wrap: break-word; word-break: break-word; font-size: 14px; color: rgb(102, 102, 102); letter-spacing: 0.2px; line-height: 18px; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;&quot; data-v-5b366386=&quot;&quot;&gt;Unable to animate this image.&lt;/pre&gt;&lt;pre style=&quot;margin-top: 0px; margin-bottom: 0px; padding: 0px; box-sizing: border-box; font-family: Helvetica, &amp;quot;Open Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; overflow-wrap: break-word; word-break: break-word; font-size: 14px; color: rgb(102, 102, 102); letter-spacing: 0.2px; line-height: 18px; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;&quot; data-v-5b366386=&quot;&quot;&gt;Please try again later or try other templates&lt;/pre&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="5A6tOy5ZmiSLIlXqqt9k-42" value="&lt;pre style=&quot;margin-top: 0px; margin-bottom: 0px; padding: 0px; box-sizing: border-box; font-family: Helvetica, &amp;quot;Open Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; overflow-wrap: break-word; word-break: break-word; font-size: 14px; color: rgb(102, 102, 102); letter-spacing: 0.2px; line-height: 18px; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;&quot; data-v-5b366386=&quot;&quot;&gt;Unable to animate this image.&lt;/pre&gt;&lt;pre style=&quot;margin-top: 0px; margin-bottom: 0px; padding: 0px; box-sizing: border-box; font-family: Helvetica, &amp;quot;Open Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; overflow-wrap: break-word; word-break: break-word; font-size: 14px; color: rgb(102, 102, 102); letter-spacing: 0.2px; line-height: 18px; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;&quot; data-v-5b366386=&quot;&quot;&gt;Please try again later or try other templates&lt;/pre&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="10" y="2100" width="310" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5A6tOy5ZmiSLIlXqqt9k-44" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;dashed=1;rounded=0;exitX=0.227;exitY=0.014;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5A6tOy5ZmiSLIlXqqt9k-42" edge="1">
@@ -438,10 +438,22 @@
         <mxCell id="5A6tOy5ZmiSLIlXqqt9k-48" value="线上阿卡贝拉模板拼图4宫格，&lt;br&gt;调用底层发起合成到接收合成完成间隔时间" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;fontFamily=Helvetica;fontSize=12;fontColor=default;html=1;" parent="5A6tOy5ZmiSLIlXqqt9k-47" vertex="1">
           <mxGeometry width="290" height="25" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DsGzHDaMotTjCSLBO4SI-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="u79UOQJMdPNoBrVsTCho-117">
+        <mxCell id="DsGzHDaMotTjCSLBO4SI-10" value="平均耗时3~4s" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DsGzHDaMotTjCSLBO4SI-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0;exitDx=47.5;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DsGzHDaMotTjCSLBO4SI-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="990" y="810" as="sourcePoint" />
-            <mxPoint x="1040" y="760" as="targetPoint" />
+            <mxPoint x="310" y="190" as="sourcePoint" />
+            <mxPoint x="320" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DsGzHDaMotTjCSLBO4SI-12" value="总计平均下载耗时7s&lt;br&gt;去除国内用户下载平均耗时1.7s" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1850" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DsGzHDaMotTjCSLBO4SI-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.525;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DsGzHDaMotTjCSLBO4SI-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="1930" as="sourcePoint" />
+            <mxPoint x="60" y="1930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
