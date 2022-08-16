@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T06:36:03.365Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="bXi73CeC5iGlz7wzEEgW" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T06:37:44.531Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="MBhxsU0wKBqdHcceXrIE" version="20.2.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,15 +22,13 @@
         <mxCell id="u79UOQJMdPNoBrVsTCho-111" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="u79UOQJMdPNoBrVsTCho-8">
           <mxGeometry x="45" y="670" width="10" height="850" as="geometry" />
         </mxCell>
-        <mxCell id="u79UOQJMdPNoBrVsTCho-135" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="u79UOQJMdPNoBrVsTCho-8">
-          <mxGeometry x="50" y="730" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="u79UOQJMdPNoBrVsTCho-136" value="查询缓存状态并计算进度" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="u79UOQJMdPNoBrVsTCho-135" parent="u79UOQJMdPNoBrVsTCho-8">
+        <mxCell id="u79UOQJMdPNoBrVsTCho-136" value="查询缓存状态并计算进度" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="u79UOQJMdPNoBrVsTCho-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="710" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="85" y="710" />
             </Array>
+            <mxPoint x="60" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u79UOQJMdPNoBrVsTCho-12" value="aniamte" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
