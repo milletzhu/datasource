@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T07:13:39.824Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XWUsW1Oq21NoMIikeXfK" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T07:15:21.243Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="5PgyL3N_gXIitzp-d9t6" version="20.2.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1166" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,17 +14,18 @@
           <mxGeometry x="45" y="1010" width="10" height="950" as="geometry" />
         </mxCell>
         <mxCell id="5A6tOy5ZmiSLIlXqqt9k-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="u79UOQJMdPNoBrVsTCho-1">
-          <mxGeometry x="45" y="140" width="10" height="210" as="geometry" />
+          <mxGeometry x="45" y="140" width="10" height="230" as="geometry" />
         </mxCell>
         <mxCell id="5A6tOy5ZmiSLIlXqqt9k-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="u79UOQJMdPNoBrVsTCho-1">
           <mxGeometry x="50" y="160" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5A6tOy5ZmiSLIlXqqt9k-10" value="人脸识别，" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="5A6tOy5ZmiSLIlXqqt9k-9" parent="u79UOQJMdPNoBrVsTCho-1">
+        <mxCell id="5A6tOy5ZmiSLIlXqqt9k-10" value="单张照片人脸识别，选取最大人脸" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="u79UOQJMdPNoBrVsTCho-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="140" as="sourcePoint" />
+            <mxPoint x="55" y="154" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85" y="140" />
+              <mxPoint x="85" y="154" />
             </Array>
+            <mxPoint x="60" y="174" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5A6tOy5ZmiSLIlXqqt9k-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="u79UOQJMdPNoBrVsTCho-1">
@@ -38,6 +39,17 @@
             <mxPoint x="55" y="215" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="85" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5A6tOy5ZmiSLIlXqqt9k-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="u79UOQJMdPNoBrVsTCho-1">
+          <mxGeometry x="50" y="310" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5A6tOy5ZmiSLIlXqqt9k-27" value="self call" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="5A6tOy5ZmiSLIlXqqt9k-26" parent="u79UOQJMdPNoBrVsTCho-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="290" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
