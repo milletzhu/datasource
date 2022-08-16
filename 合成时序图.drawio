@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T08:06:14.319Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="wuFs7-8dkFEHRykILZAP" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T08:07:51.507Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="5ZqPSZzcGx7NaF2KukO4" version="20.2.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2016" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -433,10 +433,10 @@
           <mxGeometry x="-90" y="1970" width="610" height="240" as="geometry" />
         </mxCell>
         <mxCell id="5A6tOy5ZmiSLIlXqqt9k-47" value="并发等待回调时间间隔：&lt;br&gt;1路：59ms&lt;br&gt;2路：84ms&lt;br&gt;3路：112ms&lt;br&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="630" width="170" height="130" as="geometry" />
+          <mxGeometry x="1040" y="630" width="290" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5A6tOy5ZmiSLIlXqqt9k-48" value="&lt;&lt;keyword&gt;&gt;" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;fontFamily=Helvetica;fontSize=12;fontColor=default;html=1;" vertex="1" parent="5A6tOy5ZmiSLIlXqqt9k-47">
-          <mxGeometry width="170" height="25" relative="1" as="geometry" />
+        <mxCell id="5A6tOy5ZmiSLIlXqqt9k-48" value="调用底层发起合成到接收合成完成间隔时间" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;fontFamily=Helvetica;fontSize=12;fontColor=default;html=1;" vertex="1" parent="5A6tOy5ZmiSLIlXqqt9k-47">
+          <mxGeometry width="290" height="25" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
