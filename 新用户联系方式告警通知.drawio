@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T12:06:25.947Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GManSRrOqjyqRez_CSk0" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T12:06:49.850Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8xFuxMs8gtgHUALPGneF" version="20.4.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,7 +141,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rP7UkFt_sAIfWVr7rBNn-97" value="用户首次合成3次活照片&lt;br&gt;自动弹窗" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;" vertex="1" parent="rP7UkFt_sAIfWVr7rBNn-58">
-          <mxGeometry x="20" y="320" width="160" height="50" as="geometry" />
+          <mxGeometry x="20" y="239" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rP7UkFt_sAIfWVr7rBNn-98" value="*" style="text;resizeWidth=0;resizeHeight=0;points=[];part=1;verticalAlign=middle;align=center;" vertex="1" parent="rP7UkFt_sAIfWVr7rBNn-97">
           <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rP7UkFt_sAIfWVr7rBNn-100" value="用户填写邮箱&lt;br&gt;点击提交" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;" vertex="1" parent="rP7UkFt_sAIfWVr7rBNn-58">
-          <mxGeometry x="20" y="430" width="160" height="50" as="geometry" />
+          <mxGeometry x="20" y="349" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rP7UkFt_sAIfWVr7rBNn-101" value="*" style="text;resizeWidth=0;resizeHeight=0;points=[];part=1;verticalAlign=middle;align=center;" vertex="1" parent="rP7UkFt_sAIfWVr7rBNn-100">
           <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
@@ -157,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rP7UkFt_sAIfWVr7rBNn-106" value="调用服务端保存呢信息接口&lt;br&gt;save_active_user_info&amp;nbsp;" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;" vertex="1" parent="rP7UkFt_sAIfWVr7rBNn-58">
-          <mxGeometry x="20" y="540" width="160" height="50" as="geometry" />
+          <mxGeometry x="20" y="459" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rP7UkFt_sAIfWVr7rBNn-107" value="*" style="text;resizeWidth=0;resizeHeight=0;points=[];part=1;verticalAlign=middle;align=center;" vertex="1" parent="rP7UkFt_sAIfWVr7rBNn-106">
           <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
@@ -231,7 +231,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rP7UkFt_sAIfWVr7rBNn-109" value="服务端保存用户邮箱&lt;br&gt;将用户邮箱update到用户信息表中" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="960" y="430" width="200" height="50" as="geometry" />
+          <mxGeometry x="960" y="340" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rP7UkFt_sAIfWVr7rBNn-110" value="*" style="text;resizeWidth=0;resizeHeight=0;points=[];part=1;verticalAlign=middle;align=center;" vertex="1" parent="rP7UkFt_sAIfWVr7rBNn-109">
           <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
