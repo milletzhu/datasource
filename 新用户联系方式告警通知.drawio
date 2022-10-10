@@ -1,37 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T11:21:33.207Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_hJHo0CutHVbFABNFHB3" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T11:24:05.838Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="zasrchAK5XEZqZrnqPEl" version="20.4.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PKfGuQVn0fXjlFeVQHb7-2" value="手机端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="PKfGuQVn0fXjlFeVQHb7-2" value="手机端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="60" width="100" height="1010" as="geometry" />
         </mxCell>
-        <mxCell id="PKfGuQVn0fXjlFeVQHb7-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="PKfGuQVn0fXjlFeVQHb7-2">
+        <mxCell id="PKfGuQVn0fXjlFeVQHb7-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="PKfGuQVn0fXjlFeVQHb7-2" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="PKfGuQVn0fXjlFeVQHb7-3" value="server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="PKfGuQVn0fXjlFeVQHb7-2" target="PKfGuQVn0fXjlFeVQHb7-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="110" as="sourcePoint" />
+            <mxPoint x="105" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-3" value="用户打开app调用&lt;br&gt;save_user_login接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rP7UkFt_sAIfWVr7rBNn-2">
+          <mxGeometry x="-0.22" y="-5" relative="1" as="geometry">
+            <mxPoint x="17" y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKfGuQVn0fXjlFeVQHb7-3" value="server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="60" width="100" height="1020" as="geometry" />
         </mxCell>
-        <mxCell id="PKfGuQVn0fXjlFeVQHb7-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="PKfGuQVn0fXjlFeVQHb7-3">
-          <mxGeometry x="45" y="90" width="10" height="180" as="geometry" />
+        <mxCell id="PKfGuQVn0fXjlFeVQHb7-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="PKfGuQVn0fXjlFeVQHb7-3" vertex="1">
+          <mxGeometry x="45" y="90" width="10" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="PKfGuQVn0fXjlFeVQHb7-4" value="db_user_info" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="PKfGuQVn0fXjlFeVQHb7-4" value="db_user_info" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="60" width="100" height="1020" as="geometry" />
         </mxCell>
-        <mxCell id="PKfGuQVn0fXjlFeVQHb7-7" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="PKfGuQVn0fXjlFeVQHb7-6" parent="1" source="PKfGuQVn0fXjlFeVQHb7-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="265" y="150" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PKfGuQVn0fXjlFeVQHb7-20" value="用户打开app调用&lt;br&gt;save_user_login接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PKfGuQVn0fXjlFeVQHb7-7">
-          <mxGeometry x="0.32" y="-3" relative="1" as="geometry">
-            <mxPoint x="-27" y="-23" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PKfGuQVn0fXjlFeVQHb7-8" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="PKfGuQVn0fXjlFeVQHb7-6" parent="1" target="PKfGuQVn0fXjlFeVQHb7-9">
+        <mxCell id="PKfGuQVn0fXjlFeVQHb7-8" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" source="PKfGuQVn0fXjlFeVQHb7-3" target="PKfGuQVn0fXjlFeVQHb7-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="265" y="226" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="230" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
