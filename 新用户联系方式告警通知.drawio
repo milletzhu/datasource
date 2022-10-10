@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T12:06:49.850Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8xFuxMs8gtgHUALPGneF" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T12:33:24.097Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="zVcBZud_HnQdxx4k5BU1" version="20.4.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1304" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -230,15 +230,64 @@
         <mxCell id="rP7UkFt_sAIfWVr7rBNn-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rP7UkFt_sAIfWVr7rBNn-109" target="rP7UkFt_sAIfWVr7rBNn-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rP7UkFt_sAIfWVr7rBNn-109" value="服务端保存用户邮箱&lt;br&gt;将用户邮箱update到用户信息表中" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="960" y="340" width="200" height="50" as="geometry" />
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-109" value="保存用户邮箱" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="290" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rP7UkFt_sAIfWVr7rBNn-110" value="*" style="text;resizeWidth=0;resizeHeight=0;points=[];part=1;verticalAlign=middle;align=center;" vertex="1" parent="rP7UkFt_sAIfWVr7rBNn-109">
           <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-20" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rP7UkFt_sAIfWVr7rBNn-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rP7UkFt_sAIfWVr7rBNn-106" target="rP7UkFt_sAIfWVr7rBNn-109">
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-117" value="定时任务定时扫描" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="975" y="580" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-116" value="" style="shape=collate;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="490" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rP7UkFt_sAIfWVr7rBNn-119" target="rP7UkFt_sAIfWVr7rBNn-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-119" value="查询user_info.notified标志" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="960" y="330" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-120" value="*" style="text;resizeWidth=0;resizeHeight=0;points=[];part=1;verticalAlign=middle;align=center;" vertex="1" parent="rP7UkFt_sAIfWVr7rBNn-119">
+          <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-20" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rP7UkFt_sAIfWVr7rBNn-140" target="rP7UkFt_sAIfWVr7rBNn-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-155" value="【标志存在，表示已填过，&lt;br&gt;不再重复设置标志】" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rP7UkFt_sAIfWVr7rBNn-153">
+          <mxGeometry x="0.2478" y="1" relative="1" as="geometry">
+            <mxPoint x="-85" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rP7UkFt_sAIfWVr7rBNn-140" target="rP7UkFt_sAIfWVr7rBNn-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-156" value="【标志不存在，&lt;br&gt;表示用户未填写过，需通知】" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rP7UkFt_sAIfWVr7rBNn-154">
+          <mxGeometry x="0.2171" y="1" relative="1" as="geometry">
+            <mxPoint x="-88" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-140" value="" style="rhombus;" vertex="1" parent="1">
+          <mxGeometry x="1204" y="340" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rP7UkFt_sAIfWVr7rBNn-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-150" value="保存用户邮箱和通知标志&lt;br&gt;update notified = false" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="402" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-151" value="*" style="text;resizeWidth=0;resizeHeight=0;points=[];part=1;verticalAlign=middle;align=center;" vertex="1" parent="rP7UkFt_sAIfWVr7rBNn-150">
+          <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-20" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rP7UkFt_sAIfWVr7rBNn-106" target="rP7UkFt_sAIfWVr7rBNn-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
