@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T12:41:16.915Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="K6JuUZXt65bMsoLnadxZ" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T12:42:30.411Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gIqg2wd-V8i5VnZczKhN" version="20.4.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1958" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -249,8 +249,8 @@
         <mxCell id="rP7UkFt_sAIfWVr7rBNn-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rP7UkFt_sAIfWVr7rBNn-117" target="rP7UkFt_sAIfWVr7rBNn-165">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rP7UkFt_sAIfWVr7rBNn-117" value="定时任务扫描待通知用户&lt;br&gt;select notified = false" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="580" width="160" height="50" as="geometry" />
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-117" value="每隔1h定时任务扫描待通知用户&lt;br&gt;select notified = false" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="580" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rP7UkFt_sAIfWVr7rBNn-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rP7UkFt_sAIfWVr7rBNn-116" target="rP7UkFt_sAIfWVr7rBNn-117">
           <mxGeometry relative="1" as="geometry" />
@@ -304,7 +304,7 @@
         <mxCell id="rP7UkFt_sAIfWVr7rBNn-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rP7UkFt_sAIfWVr7rBNn-106" target="rP7UkFt_sAIfWVr7rBNn-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rP7UkFt_sAIfWVr7rBNn-164" value="将待通知" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="rP7UkFt_sAIfWVr7rBNn-164" value="将待通知的用户信息" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1320" y="580" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rP7UkFt_sAIfWVr7rBNn-165" value="*" style="text;resizeWidth=0;resizeHeight=0;points=[];part=1;verticalAlign=middle;align=center;" vertex="1" parent="rP7UkFt_sAIfWVr7rBNn-164">
