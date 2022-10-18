@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T07:45:14.339Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gFrHcNKwWaN4DkEvgJpL" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T07:47:32.762Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XS7HvVtof6AZD2yMN01W" version="20.4.1" type="github">
   <diagram id="Lec9oAFG67YDy-X9fQWe" name="第 1 页">
     <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KUPW0LQg7xvWzgEW6YCn-75" value="模板：背景视频=N:1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1040" width="320" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="KUPW0LQg7xvWzgEW6YCn-16" value="手机端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="100" height="1150" as="geometry" />
         </mxCell>
@@ -83,11 +86,22 @@
         <mxCell id="KUPW0LQg7xvWzgEW6YCn-70" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="KUPW0LQg7xvWzgEW6YCn-19">
           <mxGeometry x="51" y="1060" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KUPW0LQg7xvWzgEW6YCn-71" value="模板-背景视频为N:1时&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="KUPW0LQg7xvWzgEW6YCn-70" parent="KUPW0LQg7xvWzgEW6YCn-19">
+        <mxCell id="KUPW0LQg7xvWzgEW6YCn-71" value="判断该背景视频对应模板&lt;br&gt;是否合成完成" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="KUPW0LQg7xvWzgEW6YCn-70" parent="KUPW0LQg7xvWzgEW6YCn-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="56" y="1040" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="86" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUPW0LQg7xvWzgEW6YCn-76" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="KUPW0LQg7xvWzgEW6YCn-19">
+          <mxGeometry x="50" y="1137" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KUPW0LQg7xvWzgEW6YCn-77" value="若全部模板合成完成&lt;br&gt;则查询合成记录&lt;br&gt;下载解压缩文件&lt;br&gt;调用javacv合成视频" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="KUPW0LQg7xvWzgEW6YCn-76" parent="KUPW0LQg7xvWzgEW6YCn-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="1117" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="1117" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -153,10 +167,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KUPW0LQg7xvWzgEW6YCn-72" value="模板：背景视频=1:1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="380" y="930" width="310" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="KUPW0LQg7xvWzgEW6YCn-75" value="模板：背景视频=N:1" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1040" width="310" height="250" as="geometry" />
+          <mxGeometry x="380" y="930" width="320" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
