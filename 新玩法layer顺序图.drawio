@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T08:00:56.868Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="aABiI86Tu3m1dK_GEnPv" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T08:01:38.800Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="g-megwJeirz0IIwhcA11" version="20.5.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -223,7 +223,7 @@
         <mxCell id="GFjoYGN8T0g-vUBnzk1q-100" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-C8EP_UMgjdFby-XU8R--3">
           <mxGeometry x="47" y="1240" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GFjoYGN8T0g-vUBnzk1q-101" value="支持按国家查询推荐模板包接口" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="GFjoYGN8T0g-vUBnzk1q-100" parent="-C8EP_UMgjdFby-XU8R--3">
+        <mxCell id="GFjoYGN8T0g-vUBnzk1q-101" value="按国家查询推荐模板包接口" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="GFjoYGN8T0g-vUBnzk1q-100" parent="-C8EP_UMgjdFby-XU8R--3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="52" y="1220" as="sourcePoint" />
             <Array as="points">
