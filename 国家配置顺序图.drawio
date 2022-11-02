@@ -1,1 +1,388 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T02:54:56.762Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="h-J9qNCJ6G6H45UG8O78" version="20.5.1" type="github"><diagram id="zBimEMQTdCTSegZbzzrZ" name="第 1 页">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-02T03:08:30.078Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="yjUoVLZkCWalc-fDQy46" version="20.5.1" type="github">
+  <diagram id="zBimEMQTdCTSegZbzzrZ" name="第 1 页">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-1" value="手机端" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="80" width="100" height="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-1" vertex="1">
+          <mxGeometry x="45" y="390" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-3" value="查询banner" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" parent="qa2ONUiyaUzOvBIY3K-S-1" target="qa2ONUiyaUzOvBIY3K-S-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-4" value="server端" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="80" width="100" height="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-4" vertex="1">
+          <mxGeometry x="45" y="400" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-4" vertex="1">
+          <mxGeometry x="50" y="450" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-7" value="根据code和ip确定国家&lt;br&gt;从缓存读取" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-4" target="qa2ONUiyaUzOvBIY3K-S-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="430" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-8" value="db" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="80" width="100" height="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-8" vertex="1">
+          <mxGeometry x="45" y="90" width="10" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-8" vertex="1">
+          <mxGeometry x="45" y="440" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-8" vertex="1">
+          <mxGeometry x="45" y="1340" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-12" value="config端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="730" y="80" width="100" height="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="45" y="130" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-14" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;存储一套国家代码&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="80" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="45" y="331" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-16" value="新增重点国家接口" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="311" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="311" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="45" y="230" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-18" value="查询国家列表&lt;br&gt;根据国家名和国家代码" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="210" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="45" y="470" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-20" value="新增banner配置国家&lt;br&gt;校验每个国家仅有一个大banner&lt;br&gt;和一个结果banner" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="450" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="50" y="550" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-22" value="根据国家代码查询banner" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="530" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="-535" y="610" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-24" value="查询分类接口" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-620" y="620" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="-335" y="620" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="-330" y="670" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-27" value="根据code和ip确定国家&lt;br&gt;从缓存读取" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-325" y="650" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-295" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="-115" y="660" width="10" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="45" y="690" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-30" value="新增分类接口支持配置国家" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="670" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="50" y="770" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-32" value="分类列表页&lt;br&gt;支持国家代码查询分类" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="750" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-33" value="insert/update category" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=1.5;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="45" y="698" as="sourcePoint" />
+            <mxPoint x="-100" y="698" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-34" value="query category&amp;nbsp;by country" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-323" y="720" as="sourcePoint" />
+            <mxPoint x="-113" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-35" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;get_video_template_category_list&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;入参增加count_code&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" edge="1">
+          <mxGeometry x="0.027" y="21" width="80" relative="1" as="geometry">
+            <mxPoint x="-525" y="631" as="sourcePoint" />
+            <mxPoint x="-340" y="631" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="46" y="925" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="51" y="954" width="10" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-38" value="模板包复制&lt;br&gt;选择复制到A国家" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" source="qa2ONUiyaUzOvBIY3K-S-36" target="qa2ONUiyaUzOvBIY3K-S-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="56" y="934" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="86" y="934" />
+              <mxPoint x="86" y="954" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-39" value="查询原分类下的模板包" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="41" y="1038" as="sourcePoint" />
+            <mxPoint x="-104" y="1038" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-40" value="创建A国家同名分类" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="41" y="995" as="sourcePoint" />
+            <mxPoint x="-104" y="995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="51.5" y="850" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-42" value="模板包列表页&lt;br&gt;支持国家代码查询分类" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="56.5" y="830" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="86.5" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-43" value="query category" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="41" y="870" as="sourcePoint" />
+            <mxPoint x="-109" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="45" y="1170" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-45" value="新增、编辑推荐模板包&lt;br&gt;支持国家配置" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="1150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="47" y="1240" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-47" value="按国家查询推荐模板包接口" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="52" y="1220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="82" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-48" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="-535" y="1260" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-49" value="查询模板分类列表" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-650" y="1270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="-335" y="1270" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-51" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="-330" y="1320" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-52" value="根据code和ip确定国家&lt;br&gt;code可能为空" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-325" y="1300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-295" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="45" y="1340" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-54" value="运营模板列表新增/编辑分类接口" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="1320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-55" value="根据国家代码查询模板" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="1400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="1400" />
+            </Array>
+            <mxPoint x="60" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-56" value="insert/update template" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=1.5;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="45" y="1348" as="sourcePoint" />
+            <mxPoint x="-100" y="1348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-57" value="1，查询分类&lt;br&gt;2，查询模板&lt;br&gt;3，查询推荐模板" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-323" y="1370" as="sourcePoint" />
+            <mxPoint x="-113" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-58" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;home_v2/get_video_&lt;br&gt;template_category_list&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;入参增加count_code&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" edge="1">
+          <mxGeometry x="-0.0231" width="80" relative="1" as="geometry">
+            <mxPoint x="-525" y="1281" as="sourcePoint" />
+            <mxPoint x="-340" y="1281" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-59" value="query template" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=1.6;entryY=0.706;entryDx=0;entryDy=0;entryPerimeter=0;" parent="qa2ONUiyaUzOvBIY3K-S-12" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="1430.02" as="sourcePoint" />
+            <mxPoint x="-99" y="1430.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="46" y="400" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-61" value="&lt;font color=&quot;#ff8000&quot;&gt;复制全部配置到某个国家！！！&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fillColor=#FF9999;" parent="qa2ONUiyaUzOvBIY3K-S-12" target="qa2ONUiyaUzOvBIY3K-S-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="51" y="380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="81" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-62" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontColor=#FF3333;" parent="qa2ONUiyaUzOvBIY3K-S-12" vertex="1">
+          <mxGeometry x="45" y="1390" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-63" value="save country" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="qa2ONUiyaUzOvBIY3K-S-13" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="660" y="230" as="sourcePoint" />
+            <mxPoint x="630" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-64" value="select&amp;nbsp; country" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" source="qa2ONUiyaUzOvBIY3K-S-17" target="qa2ONUiyaUzOvBIY3K-S-9" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="720" y="360" as="sourcePoint" />
+            <mxPoint x="740" y="329" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-65" value="insert country" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" source="qa2ONUiyaUzOvBIY3K-S-15" target="qa2ONUiyaUzOvBIY3K-S-9" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="680" y="430" as="sourcePoint" />
+            <mxPoint x="760" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-66" value="insert/update banner" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=1.5;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="775" y="558" as="sourcePoint" />
+            <mxPoint x="630" y="558" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-67" value="query banner by country" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="407" y="580" as="sourcePoint" />
+            <mxPoint x="617" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-68" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;get_banner_activity_list&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;入参增加count_code&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0231" width="80" relative="1" as="geometry">
+            <mxPoint x="205" y="491" as="sourcePoint" />
+            <mxPoint x="390" y="491" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-69" value="query banner" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=1.6;entryY=0.706;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qa2ONUiyaUzOvBIY3K-S-21" target="qa2ONUiyaUzOvBIY3K-S-10" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="670" y="640" as="sourcePoint" />
+            <mxPoint x="750" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-70" value="query category" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" source="qa2ONUiyaUzOvBIY3K-S-31" target="qa2ONUiyaUzOvBIY3K-S-8" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="670" y="860" as="sourcePoint" />
+            <mxPoint x="750" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-71" value="复制模板包列表&lt;br&gt;到A国家新分类" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="770" y="1164" as="sourcePoint" />
+            <mxPoint x="625" y="1164" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-72" value="insert/update recommend" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="775" y="1270" as="sourcePoint" />
+            <mxPoint x="630" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qa2ONUiyaUzOvBIY3K-S-73" value="query recommend&lt;br&gt;&amp;nbsp;by country" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="775" y="1340" as="sourcePoint" />
+            <mxPoint x="630" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
