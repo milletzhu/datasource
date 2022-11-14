@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T11:56:40.856Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kO-0RdYS02v5P3aU3x-4" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T11:57:29.252Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TiRZ2tgHlitLZ0AgazfZ" version="20.5.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2512" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Upy7s1R3ijE2vFxrYpLP-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
-          <mxGeometry x="45" y="1586" width="10" height="344" as="geometry" />
+          <mxGeometry x="45" y="1586" width="10" height="384" as="geometry" />
         </mxCell>
         <mxCell id="Upy7s1R3ijE2vFxrYpLP-4" value="调用投票接口" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
           <mxGeometry relative="1" as="geometry">
@@ -188,6 +188,9 @@
         </mxCell>
         <mxCell id="Upy7s1R3ijE2vFxrYpLP-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="iJaBp2wlKT-MQ3Jx9xqJ-1">
           <mxGeometry x="45" y="1760" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Upy7s1R3ijE2vFxrYpLP-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="iJaBp2wlKT-MQ3Jx9xqJ-1">
+          <mxGeometry x="45" y="1890" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-3" value="查询world_cup_schedule表" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" target="iJaBp2wlKT-MQ3Jx9xqJ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -327,9 +330,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Upy7s1R3ijE2vFxrYpLP-10" value="查询用户剩余票数" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" target="Upy7s1R3ijE2vFxrYpLP-9" parent="1" source="Upy7s1R3ijE2vFxrYpLP-3">
+        <mxCell id="Upy7s1R3ijE2vFxrYpLP-10" value="查询用户剩余票数" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="185" y="1840" as="sourcePoint" />
+            <mxPoint x="5" y="1845" as="sourcePoint" />
+            <mxPoint x="245" y="1845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Upy7s1R3ijE2vFxrYpLP-14" value="插入用户投票记录" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" target="Upy7s1R3ijE2vFxrYpLP-13" parent="1" source="Upy7s1R3ijE2vFxrYpLP-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="1970" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
