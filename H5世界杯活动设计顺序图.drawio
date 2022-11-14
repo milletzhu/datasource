@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T07:10:19.568Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="VoKZAC3LkwgekQYYjEXY" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T07:11:30.893Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9G8lEdRvPst41v-93URW" version="20.5.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2512" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -126,18 +126,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-24" value="查询用户累计积分和排名&lt;br&gt;points_total" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="iJaBp2wlKT-MQ3Jx9xqJ-23" parent="1" source="iJaBp2wlKT-MQ3Jx9xqJ-11">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.1207" y="11" relative="1" as="geometry">
             <mxPoint x="175" y="651" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-25" value="返回用户积分和排名" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" source="iJaBp2wlKT-MQ3Jx9xqJ-23" parent="1">
+        <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-25" value="返回用户积分和排名" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5" y="675" as="targetPoint" />
-            <mxPoint x="435" y="675" as="sourcePoint" />
+            <mxPoint x="6" y="675" as="targetPoint" />
+            <mxPoint x="586" y="675" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-26" value="redis" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="80" width="100" height="1380" as="geometry" />
+          <mxGeometry x="540" y="80" width="100" height="1380" as="geometry" />
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="iJaBp2wlKT-MQ3Jx9xqJ-26">
           <mxGeometry x="45" y="561" width="10" height="40" as="geometry" />
