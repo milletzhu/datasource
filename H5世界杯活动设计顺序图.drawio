@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T07:58:51.650Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="hPbhX9k0llerfQwK2egG" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T07:59:54.980Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2tSeqKPI20xVbo99IFSp" version="20.5.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2512" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
-          <mxGeometry x="45" y="1055" width="10" height="255" as="geometry" />
+          <mxGeometry x="45" y="1055" width="10" height="425" as="geometry" />
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-55" value="用户分享" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" target="iJaBp2wlKT-MQ3Jx9xqJ-54" parent="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry relative="1" as="geometry">
@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
-          <mxGeometry x="45" y="1060" width="10" height="320" as="geometry" />
+          <mxGeometry x="45" y="1060" width="10" height="390" as="geometry" />
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
           <mxGeometry x="50" y="1110" width="10" height="40" as="geometry" />
@@ -140,6 +140,9 @@
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-78" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="iJaBp2wlKT-MQ3Jx9xqJ-1">
           <mxGeometry x="45" y="1350" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-80" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="iJaBp2wlKT-MQ3Jx9xqJ-1">
+          <mxGeometry x="45" y="1410" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-3" value="查询world_cup_schedule表" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="iJaBp2wlKT-MQ3Jx9xqJ-2" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6">
           <mxGeometry relative="1" as="geometry">
@@ -249,14 +252,26 @@
             <mxPoint x="175" y="1250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-75" value="查询用户当日获得票数&lt;br&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;用户得票明细实体vote_getting_list&lt;/span&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" target="iJaBp2wlKT-MQ3Jx9xqJ-74" parent="1" source="iJaBp2wlKT-MQ3Jx9xqJ-56">
+        <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-75" value="查询用户当日获得票数&lt;br&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;用户得票明细实体vote_getting_list&lt;/span&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="185" y="1320" as="sourcePoint" />
+            <mxPoint x="5" y="1324" as="sourcePoint" />
+            <mxPoint x="245" y="1324" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-79" value="未达到上限，插入得票明细表&lt;br&gt;用户总票数+1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" target="iJaBp2wlKT-MQ3Jx9xqJ-78" parent="1" source="iJaBp2wlKT-MQ3Jx9xqJ-56">
+        <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-79" value="未达到上限，插入得票明细表" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" target="iJaBp2wlKT-MQ3Jx9xqJ-78" parent="1" source="iJaBp2wlKT-MQ3Jx9xqJ-56">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="185" y="1430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-81" value="用户总票数+1" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" target="iJaBp2wlKT-MQ3Jx9xqJ-80" parent="1" source="iJaBp2wlKT-MQ3Jx9xqJ-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="1490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-82" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iJaBp2wlKT-MQ3Jx9xqJ-56" target="iJaBp2wlKT-MQ3Jx9xqJ-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="1520" as="sourcePoint" />
+            <mxPoint x="-100" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
