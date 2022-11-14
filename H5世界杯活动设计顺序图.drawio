@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T12:02:29.509Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="qEerpoEeU0Fd7aNH2LZL" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T12:05:00.541Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0pszBkHfrq7DAZhPWSGI" version="20.5.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2512" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="h5页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="80" width="100" height="2350" as="geometry" />
+          <mxGeometry x="-230" y="80" width="100" height="2580" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="45" y="206" width="10" height="150" as="geometry" />
@@ -50,17 +50,8 @@
             <mxPoint x="-120" y="1560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Upy7s1R3ijE2vFxrYpLP-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
-          <mxGeometry x="45" y="2080" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Upy7s1R3ijE2vFxrYpLP-17" value="定时任务计算得分" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="2097" as="sourcePoint" />
-            <mxPoint x="45" y="2097" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="server端" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="80" width="100" height="2340" as="geometry" />
+          <mxGeometry x="-50" y="80" width="100" height="2580" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="45" y="216" width="10" height="130" as="geometry" />
@@ -152,13 +143,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Upy7s1R3ijE2vFxrYpLP-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry x="45" y="2130" width="10" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Upy7s1R3ijE2vFxrYpLP-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry x="50" y="2160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Upy7s1R3ijE2vFxrYpLP-23" value="&lt;span style=&quot;text-align: center;&quot;&gt;定时任务计算用户得分&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="Upy7s1R3ijE2vFxrYpLP-22" parent="3nuBFxr9cyL0pnOWT2aG-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="2140" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="2140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="查询赛程列表接口" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-75" y="296" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-1" value="db" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="80" width="100" height="2330" as="geometry" />
+          <mxGeometry x="200" y="80" width="100" height="2590" as="geometry" />
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="iJaBp2wlKT-MQ3Jx9xqJ-1" vertex="1">
           <mxGeometry x="45" y="236" width="10" height="80" as="geometry" />
@@ -172,7 +177,7 @@
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-52" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="iJaBp2wlKT-MQ3Jx9xqJ-1" vertex="1">
           <mxGeometry x="50" y="130" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-53" value="运营配置赛程表&lt;br&gt;包含&lt;span style=&quot;color: rgb(51, 51, 51); font-family: PingFangSC-Regular, &amp;quot;PingFang SC&amp;quot;; font-size: 14px;&quot;&gt;比赛图片（双方），双方国家名称，&lt;br&gt;比赛开始时间，比赛结束时间、&lt;br&gt;比赛比分，胜负结果&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="iJaBp2wlKT-MQ3Jx9xqJ-1" target="iJaBp2wlKT-MQ3Jx9xqJ-52" edge="1">
+        <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-53" value="运营配置赛程表&lt;br&gt;包含&lt;span style=&quot;color: rgb(51, 51, 51); font-family: PingFangSC-Regular, &amp;quot;PingFang SC&amp;quot;; font-size: 14px;&quot;&gt;比赛图片（双方），双方国家名称，&lt;br&gt;比赛开始时间，比赛结束时间&lt;br&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="iJaBp2wlKT-MQ3Jx9xqJ-1" target="iJaBp2wlKT-MQ3Jx9xqJ-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="110" as="sourcePoint" />
             <Array as="points">
@@ -200,6 +205,17 @@
         </mxCell>
         <mxCell id="Upy7s1R3ijE2vFxrYpLP-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="iJaBp2wlKT-MQ3Jx9xqJ-1">
           <mxGeometry x="45" y="1890" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Upy7s1R3ijE2vFxrYpLP-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="iJaBp2wlKT-MQ3Jx9xqJ-1">
+          <mxGeometry x="45" y="2070" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Upy7s1R3ijE2vFxrYpLP-21" value="运营更新赛程表的比赛比分&lt;br&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: PingFangSC-Regular, &amp;quot;PingFang SC&amp;quot;; font-size: 14px;&quot;&gt;胜负结果&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="Upy7s1R3ijE2vFxrYpLP-20" parent="iJaBp2wlKT-MQ3Jx9xqJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="2050" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="2050" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-3" value="查询world_cup_schedule表" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" target="iJaBp2wlKT-MQ3Jx9xqJ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
