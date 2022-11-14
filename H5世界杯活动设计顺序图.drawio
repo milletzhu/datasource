@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T06:55:01.630Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="AVOg2gImmKCdugncsQpR" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T06:55:11.507Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ntdjDzJ9dKqfgcEETtXp" version="20.5.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2512" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,11 +24,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
-          <mxGeometry x="45" y="703" width="10" height="130" as="geometry" />
+          <mxGeometry x="45" y="640" width="10" height="130" as="geometry" />
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-29" value="用户点击查看积分记录" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" target="iJaBp2wlKT-MQ3Jx9xqJ-28" parent="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="703" as="sourcePoint" />
+            <mxPoint x="-80" y="640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="server端" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
@@ -41,7 +41,7 @@
           <mxGeometry x="45" y="280" width="10" height="290" as="geometry" />
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
-          <mxGeometry x="45" y="713" width="10" height="100" as="geometry" />
+          <mxGeometry x="45" y="650" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
           <mxGeometry x="50" y="500" width="10" height="40" as="geometry" />
@@ -69,7 +69,7 @@
           <mxGeometry x="45" y="290" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="iJaBp2wlKT-MQ3Jx9xqJ-1">
-          <mxGeometry x="45" y="723" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="660" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-3" value="查询world_cup_schedule表" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="iJaBp2wlKT-MQ3Jx9xqJ-2" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6">
           <mxGeometry relative="1" as="geometry">
@@ -130,22 +130,22 @@
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-31" value="查询积分明细接口" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="iJaBp2wlKT-MQ3Jx9xqJ-30" parent="1" source="iJaBp2wlKT-MQ3Jx9xqJ-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-75" y="783" as="sourcePoint" />
+            <mxPoint x="-75" y="720" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-32" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="iJaBp2wlKT-MQ3Jx9xqJ-30" parent="1" target="iJaBp2wlKT-MQ3Jx9xqJ-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-75" y="859" as="targetPoint" />
+            <mxPoint x="-75" y="796" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-36" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;查询积分明细表points_list&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="iJaBp2wlKT-MQ3Jx9xqJ-35" parent="1" source="iJaBp2wlKT-MQ3Jx9xqJ-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="175" y="793" as="sourcePoint" />
+            <mxPoint x="175" y="730" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iJaBp2wlKT-MQ3Jx9xqJ-37" value="返回积分记录" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="iJaBp2wlKT-MQ3Jx9xqJ-35" parent="1" target="iJaBp2wlKT-MQ3Jx9xqJ-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="175" y="869" as="targetPoint" />
+            <mxPoint x="175" y="806" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
