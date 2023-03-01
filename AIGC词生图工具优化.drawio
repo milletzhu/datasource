@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T11:34:28.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Lr4tpaNSX-HdeT_PxG-S" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T11:45:04.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="LKjBum7PX26UpNqbkqsI" version="20.8.23" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2006" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,8 +296,8 @@
             <mxPoint x="80" y="-410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yQq68o5WZJDf7F2LKcGU-129" value="规则登记枚举&lt;br&gt;PROMPT_GEN&lt;br&gt;STYLE_PLIE" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-185" y="-670" width="110" height="80" as="geometry" />
+        <mxCell id="yQq68o5WZJDf7F2LKcGU-129" value="规则登记枚举&lt;br&gt;PROMPT_GEN&lt;br&gt;STYLE_PLIE&lt;br&gt;... ..." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-185" y="-690" width="145" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yQq68o5WZJDf7F2LKcGU-130" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yQq68o5WZJDf7F2LKcGU-124" target="yQq68o5WZJDf7F2LKcGU-129">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -326,8 +326,8 @@
         <mxCell id="yQq68o5WZJDf7F2LKcGU-133" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="yQq68o5WZJDf7F2LKcGU-131">
           <mxGeometry y="156" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="yQq68o5WZJDf7F2LKcGU-139" value="迭代生成词的记录实体，记录词的状态和结果" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-263" y="60" width="140" height="90" as="geometry" />
+        <mxCell id="yQq68o5WZJDf7F2LKcGU-139" value="迭代生成词的记录实体，记录词的状态和结果&lt;br&gt;inputWord:output" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-325" y="40" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yQq68o5WZJDf7F2LKcGU-141" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yQq68o5WZJDf7F2LKcGU-139" target="yQq68o5WZJDf7F2LKcGU-131">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
