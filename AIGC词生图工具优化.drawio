@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T08:10:28.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Guqt-lTpVJf7Vr00p_m1" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T08:14:00.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="NoK6hm1Z_WWpl0TZ0xfv" version="20.8.23" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2006" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2145" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -19,7 +19,7 @@
         <mxCell id="yQq68o5WZJDf7F2LKcGU-38" value="wordToImage(word:String)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yQq68o5WZJDf7F2LKcGU-19">
           <mxGeometry y="86" width="210" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yQq68o5WZJDf7F2LKcGU-24" value="词组的抽象" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yQq68o5WZJDf7F2LKcGU-24" value="词组的抽象" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="30" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yQq68o5WZJDf7F2LKcGU-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yQq68o5WZJDf7F2LKcGU-19" target="yQq68o5WZJDf7F2LKcGU-24">
@@ -73,7 +73,7 @@
             <mxPoint x="553.1531531531532" y="242" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yQq68o5WZJDf7F2LKcGU-40" value="wordToImage(word:String)&lt;br&gt;for(child:wordChildren){&lt;br&gt;child.wordToImage(joinWord)&lt;br&gt;}&lt;br&gt;入参为从根节点word到本节点word的构成的word词组" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yQq68o5WZJDf7F2LKcGU-40" value="wordToImage(word:String)&lt;br&gt;for(child:wordChildren){&lt;br&gt;child.wordToImage(joinWord)&lt;br&gt;}&lt;br&gt;入参为从根节点word到本节点word的构成的word词组" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="530" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yQq68o5WZJDf7F2LKcGU-42" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yQq68o5WZJDf7F2LKcGU-40" target="yQq68o5WZJDf7F2LKcGU-35">
@@ -82,7 +82,7 @@
             <mxPoint x="550" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yQq68o5WZJDf7F2LKcGU-43" value="对word进行词生图" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yQq68o5WZJDf7F2LKcGU-43" value="对word进行词生图" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="470" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yQq68o5WZJDf7F2LKcGU-44" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.54;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yQq68o5WZJDf7F2LKcGU-43" target="yQq68o5WZJDf7F2LKcGU-39">
@@ -101,7 +101,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yQq68o5WZJDf7F2LKcGU-48" value="StylePileConfig" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yQq68o5WZJDf7F2LKcGU-48" value="StylePileEngine" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="22" y="148" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yQq68o5WZJDf7F2LKcGU-50" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="yQq68o5WZJDf7F2LKcGU-48">
@@ -116,7 +116,7 @@
             <mxPoint x="390" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yQq68o5WZJDf7F2LKcGU-53" value="负责对不同维度的词组装为tree结构" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yQq68o5WZJDf7F2LKcGU-53" value="负责对不同维度的词组装为tree结构" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-100" y="270" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yQq68o5WZJDf7F2LKcGU-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yQq68o5WZJDf7F2LKcGU-48" target="yQq68o5WZJDf7F2LKcGU-53">
@@ -212,7 +212,7 @@
             <mxPoint x="400" y="-280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yQq68o5WZJDf7F2LKcGU-96" value="词生词规则抽象" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yQq68o5WZJDf7F2LKcGU-96" value="词生词规则抽象" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="-520" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yQq68o5WZJDf7F2LKcGU-97" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yQq68o5WZJDf7F2LKcGU-75" target="yQq68o5WZJDf7F2LKcGU-96">
@@ -221,7 +221,7 @@
             <mxPoint x="160" y="-470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yQq68o5WZJDf7F2LKcGU-98" value="知识" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yQq68o5WZJDf7F2LKcGU-98" value="知识" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="-500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yQq68o5WZJDf7F2LKcGU-99" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yQq68o5WZJDf7F2LKcGU-84" target="yQq68o5WZJDf7F2LKcGU-98">
@@ -230,7 +230,7 @@
             <mxPoint x="530" y="-450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yQq68o5WZJDf7F2LKcGU-100" value="有不同维度，如Driection,Moods,Artiss" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yQq68o5WZJDf7F2LKcGU-100" value="有不同维度，如Driection,Moods,Artiss" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="-274" width="160" height="74" as="geometry" />
         </mxCell>
         <mxCell id="yQq68o5WZJDf7F2LKcGU-101" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yQq68o5WZJDf7F2LKcGU-80" target="yQq68o5WZJDf7F2LKcGU-100">
@@ -243,6 +243,15 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="330" y="-110" as="sourcePoint" />
             <mxPoint x="490" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yQq68o5WZJDf7F2LKcGU-103" value="不同模型" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-530" y="-520" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yQq68o5WZJDf7F2LKcGU-104" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yQq68o5WZJDf7F2LKcGU-59" target="yQq68o5WZJDf7F2LKcGU-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-290" y="-380" as="sourcePoint" />
+            <mxPoint x="-240" y="-430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
