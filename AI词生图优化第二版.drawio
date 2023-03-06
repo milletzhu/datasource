@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T02:25:12.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="CwBCAcxKOzlc-2aSLlTb" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T01:51:07.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="VCvHnzbpFbbTvckJs4GO" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1395" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="khj0u-b_a6s8w3uMLPm0-22" value="消费的词和对应style组成的DO" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1310" y="1120" width="190" height="60" as="geometry" />
+          <mxGeometry x="1310" y="1130" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="khj0u-b_a6s8w3uMLPm0-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="khj0u-b_a6s8w3uMLPm0-25" target="khj0u-b_a6s8w3uMLPm0-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="khj0u-b_a6s8w3uMLPm0-25" value="RuleQueueEngine" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1277.5" y="769" width="255" height="138" as="geometry" />
+          <mxGeometry x="1277.5" y="782" width="255" height="112" as="geometry" />
         </mxCell>
         <mxCell id="khj0u-b_a6s8w3uMLPm0-140" value="wordQueue: List&lt;StyleQueue&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="khj0u-b_a6s8w3uMLPm0-25" vertex="1">
           <mxGeometry y="26" width="255" height="26" as="geometry" />
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="khj0u-b_a6s8w3uMLPm0-28" value="getAllConsumerQueues():List&lt;StyleWordDo&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="khj0u-b_a6s8w3uMLPm0-25" vertex="1">
           <mxGeometry y="86" width="255" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="khj0u-b_a6s8w3uMLPm0-131" value="afterToWordBusiness(words:List&lt;StyleWordDo&gt;): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="khj0u-b_a6s8w3uMLPm0-25" vertex="1">
-          <mxGeometry y="112" width="255" height="26" as="geometry" />
         </mxCell>
         <mxCell id="khj0u-b_a6s8w3uMLPm0-30" value="wordQueue持有StyleQueue的实例&lt;br&gt;initQueues()负责调用RuleQueue各个子类的buildQueue&lt;br&gt;consumerQueues()负责获取各个对象的词&lt;br&gt;afterToWordBusiness过程中将产生的新词维护到自定义队列之中" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFF2CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1100" y="510" width="250" height="118" as="geometry" />
@@ -329,7 +326,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="khj0u-b_a6s8w3uMLPm0-128" value="Rule" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="880" y="784" width="310" height="112" as="geometry" />
+          <mxGeometry x="880" y="774" width="310" height="138" as="geometry" />
         </mxCell>
         <mxCell id="khj0u-b_a6s8w3uMLPm0-186" value="ruleSuccessor: Rule" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="khj0u-b_a6s8w3uMLPm0-128" vertex="1">
           <mxGeometry y="26" width="310" height="26" as="geometry" />
@@ -340,7 +337,7 @@
         <mxCell id="khj0u-b_a6s8w3uMLPm0-185" value="setRule(rule:Rule): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="khj0u-b_a6s8w3uMLPm0-128" vertex="1">
           <mxGeometry y="60" width="310" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="79syp_4z5O49Bw7YSN7X-0" value=" wordToWord(words:List&lt;StyleWordDo&gt;): String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="khj0u-b_a6s8w3uMLPm0-128">
+        <mxCell id="79syp_4z5O49Bw7YSN7X-0" value=" wordToWord(words:List&lt;StyleWordDo&gt;): String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="khj0u-b_a6s8w3uMLPm0-128" vertex="1">
           <mxGeometry y="86" width="310" height="26" as="geometry" />
         </mxCell>
         <mxCell id="khj0u-b_a6s8w3uMLPm0-198" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=1;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;" parent="khj0u-b_a6s8w3uMLPm0-128" edge="1">
@@ -353,6 +350,9 @@
               <mxPoint x="340" y="34" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="khj0u-b_a6s8w3uMLPm0-131" value="afterToWordBusiness(words:List&lt;StyleWordDo&gt;): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="khj0u-b_a6s8w3uMLPm0-128" vertex="1">
+          <mxGeometry y="112" width="310" height="26" as="geometry" />
         </mxCell>
         <mxCell id="khj0u-b_a6s8w3uMLPm0-162" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="khj0u-b_a6s8w3uMLPm0-95" target="khj0u-b_a6s8w3uMLPm0-44" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -385,7 +385,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="khj0u-b_a6s8w3uMLPm0-167" value="StyleWordDo" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1325" y="950" width="160" height="86" as="geometry" />
+          <mxGeometry x="1325" y="960" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="khj0u-b_a6s8w3uMLPm0-168" value="word: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="khj0u-b_a6s8w3uMLPm0-167" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -501,12 +501,12 @@
             <mxPoint x="1840" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79syp_4z5O49Bw7YSN7X-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="khj0u-b_a6s8w3uMLPm0-25" target="khj0u-b_a6s8w3uMLPm0-211">
+        <mxCell id="79syp_4z5O49Bw7YSN7X-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.39;exitY=0.014;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="khj0u-b_a6s8w3uMLPm0-128" target="khj0u-b_a6s8w3uMLPm0-211" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1000" y="760" as="sourcePoint" />
+            <mxPoint x="1000" y="770" as="sourcePoint" />
             <mxPoint x="1590" y="459.1347517730494" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1405" y="460" />
+              <mxPoint x="1000" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
