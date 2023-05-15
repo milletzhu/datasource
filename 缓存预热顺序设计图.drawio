@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T03:06:05.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="OXeNSlu1nID-qFvJF-Ye" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T03:19:34.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zVrV14ricuJxPyQM1vKu" version="21.2.9" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1120" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,13 +25,22 @@
           <mxGeometry x="45" y="960" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="se3cPvvkGwRjd8mJUUMq-13" value="CacheDao&lt;br&gt;缓存预热持久化对象" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="480" y="30" width="100" height="1050" as="geometry" />
+          <mxGeometry x="480" y="30" width="100" height="1740" as="geometry" />
         </mxCell>
         <mxCell id="se3cPvvkGwRjd8mJUUMq-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="se3cPvvkGwRjd8mJUUMq-13">
           <mxGeometry x="45" y="220" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="se3cPvvkGwRjd8mJUUMq-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="se3cPvvkGwRjd8mJUUMq-13">
           <mxGeometry x="45" y="590" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-62" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="se3cPvvkGwRjd8mJUUMq-13">
+          <mxGeometry x="45" y="1070" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-70" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="se3cPvvkGwRjd8mJUUMq-13">
+          <mxGeometry x="45" y="1280" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-82" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="se3cPvvkGwRjd8mJUUMq-13">
+          <mxGeometry x="45" y="1540" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="se3cPvvkGwRjd8mJUUMq-14" value="CacheMqProducer缓存预热mq生产者" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="640" y="30" width="110" height="610" as="geometry" />
@@ -81,6 +90,7 @@
         <mxCell id="se3cPvvkGwRjd8mJUUMq-38" value="更新记录状态为消费中&lt;br&gt;update cache set state = cunsome" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="se3cPvvkGwRjd8mJUUMq-37" parent="1" source="se3cPvvkGwRjd8mJUUMq-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="465" y="620" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="se3cPvvkGwRjd8mJUUMq-39" value="DriverVideoCacheAi&lt;br&gt;底层AI缓存合成服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -120,10 +130,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="se3cPvvkGwRjd8mJUUMq-45" value="CacheFileCallback&lt;br&gt;缓存预热回调接口" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="140" y="870" width="100" height="300" as="geometry" />
+          <mxGeometry x="140" y="870" width="100" height="320" as="geometry" />
         </mxCell>
         <mxCell id="se3cPvvkGwRjd8mJUUMq-48" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="se3cPvvkGwRjd8mJUUMq-45">
-          <mxGeometry x="45" y="80" width="10" height="120" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="190" as="geometry" />
         </mxCell>
         <mxCell id="se3cPvvkGwRjd8mJUUMq-49" value="callback&lt;br&gt;缓存接口回调" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="se3cPvvkGwRjd8mJUUMq-48" parent="1" source="se3cPvvkGwRjd8mJUUMq-43">
           <mxGeometry relative="1" as="geometry">
@@ -134,6 +144,76 @@
         <mxCell id="se3cPvvkGwRjd8mJUUMq-57" value="上传缓存文件&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;upload cache zip" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="se3cPvvkGwRjd8mJUUMq-56" parent="1" source="se3cPvvkGwRjd8mJUUMq-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="295" y="990" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-63" value="更新缓存任务状态&lt;br&gt;update cache set state = finish" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="se3cPvvkGwRjd8mJUUMq-62" parent="1" source="se3cPvvkGwRjd8mJUUMq-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="1100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-64" value="AnimateController&lt;br&gt;模板配置类" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="140" y="1220" width="100" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-68" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="se3cPvvkGwRjd8mJUUMq-64">
+          <mxGeometry x="45" y="80" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-69" value="运营配置模板" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="se3cPvvkGwRjd8mJUUMq-68" parent="se3cPvvkGwRjd8mJUUMq-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-100" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="se3cPvvkGwRjd8mJUUMq-64">
+          <mxGeometry x="50" y="180" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-76" value="选择缓存文件，配置模板" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="se3cPvvkGwRjd8mJUUMq-75" parent="se3cPvvkGwRjd8mJUUMq-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-80" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="se3cPvvkGwRjd8mJUUMq-64">
+          <mxGeometry x="45" y="340" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-81" value="运营模板上线" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="se3cPvvkGwRjd8mJUUMq-80" parent="se3cPvvkGwRjd8mJUUMq-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-100" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-84" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="se3cPvvkGwRjd8mJUUMq-64">
+          <mxGeometry x="50" y="450" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-85" value="判断缓存是否全部合成完毕&lt;br&gt;若未合成完毕，则禁止上线" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="se3cPvvkGwRjd8mJUUMq-84" parent="se3cPvvkGwRjd8mJUUMq-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="430" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-71" value="查询缓存列表" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="se3cPvvkGwRjd8mJUUMq-70" parent="1" source="se3cPvvkGwRjd8mJUUMq-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="1330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-72" value="VideoTemplateDao&lt;br&gt;模板表" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="630" y="1220" width="100" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-73" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="se3cPvvkGwRjd8mJUUMq-72">
+          <mxGeometry x="45" y="220" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-74" value="绑定模板和缓存文件" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="se3cPvvkGwRjd8mJUUMq-73" parent="1" source="se3cPvvkGwRjd8mJUUMq-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="1410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="630" y="1470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="se3cPvvkGwRjd8mJUUMq-83" value="查询模板对应的缓存文件" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="se3cPvvkGwRjd8mJUUMq-82" parent="1" source="se3cPvvkGwRjd8mJUUMq-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="1570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
