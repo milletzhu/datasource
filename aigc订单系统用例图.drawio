@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T07:37:13.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="65tcSM9Z1SUFYeGOG723" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T07:37:45.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XHUt8Wfe5mFRP_3cI1h5" version="21.3.2" type="github">
   <diagram name="第 1 页" id="SmtNtoaHcrcVJSKYjc0B">
     <mxGraphModel dx="2501" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,10 +77,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VZaIuahMytYnxe0hDQHc-22" value="查看并选择frame" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="-250" width="140" height="70" as="geometry" />
+          <mxGeometry x="-390" y="-360" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VZaIuahMytYnxe0hDQHc-23" value="查看并选择size" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="-250" width="140" height="70" as="geometry" />
+          <mxGeometry x="-560" y="-360" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VZaIuahMytYnxe0hDQHc-24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" source="VZaIuahMytYnxe0hDQHc-8" target="VZaIuahMytYnxe0hDQHc-23" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -101,10 +101,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VZaIuahMytYnxe0hDQHc-27" value="选择数量num" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-350" y="-350" width="140" height="70" as="geometry" />
+          <mxGeometry x="-230" y="-360" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VZaIuahMytYnxe0hDQHc-28" value="根据size，frame和num计算油画价格" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="-350" width="140" height="70" as="geometry" />
+          <mxGeometry x="-70" y="-360" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VZaIuahMytYnxe0hDQHc-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" source="VZaIuahMytYnxe0hDQHc-8" target="VZaIuahMytYnxe0hDQHc-28" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -246,6 +246,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-430" y="-380" as="sourcePoint" />
             <mxPoint x="-380" y="-430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmTWPRrh8DY9wcVOX-z-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="VZaIuahMytYnxe0hDQHc-23" target="VZaIuahMytYnxe0hDQHc-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-470" y="-370" as="sourcePoint" />
+            <mxPoint x="-420" y="-420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
