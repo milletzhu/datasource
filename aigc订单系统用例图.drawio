@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T07:37:51.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rVXOCgzQThd26lanft77" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T07:53:03.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wyWV4z47pIthaC4ferha" version="21.3.2" type="github">
   <diagram name="第 1 页" id="SmtNtoaHcrcVJSKYjc0B">
     <mxGraphModel dx="2501" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VZaIuahMytYnxe0hDQHc-30" value="将选择的油画添加到购物车add cart" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="-240" width="140" height="70" as="geometry" />
+          <mxGeometry x="40" y="-280" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VZaIuahMytYnxe0hDQHc-31" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" source="VZaIuahMytYnxe0hDQHc-9" target="VZaIuahMytYnxe0hDQHc-30" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -121,8 +121,8 @@
             <mxPoint x="400" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VZaIuahMytYnxe0hDQHc-32" value="查看购物车列表" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="-240" width="140" height="70" as="geometry" />
+        <mxCell id="VZaIuahMytYnxe0hDQHc-32" value="查看购物车商品列表信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="-250" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VZaIuahMytYnxe0hDQHc-33" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.729;exitY=0.043;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VZaIuahMytYnxe0hDQHc-9" target="VZaIuahMytYnxe0hDQHc-32" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VZaIuahMytYnxe0hDQHc-38" value="选择购物车商品并计算总价" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="-240" width="140" height="70" as="geometry" />
+          <mxGeometry x="590" y="-230" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VZaIuahMytYnxe0hDQHc-39" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" source="VZaIuahMytYnxe0hDQHc-9" target="VZaIuahMytYnxe0hDQHc-38" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -157,8 +157,8 @@
             <mxPoint x="590" y="-160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VZaIuahMytYnxe0hDQHc-40" value="查询购物车里油画个数" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="-80" width="140" height="70" as="geometry" />
+        <mxCell id="VZaIuahMytYnxe0hDQHc-40" value="购物车小图标中&lt;br&gt;显示购物车里油画个数" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-70" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VZaIuahMytYnxe0hDQHc-41" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" source="VZaIuahMytYnxe0hDQHc-9" target="VZaIuahMytYnxe0hDQHc-40" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -230,8 +230,8 @@
             <mxPoint x="200" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VZaIuahMytYnxe0hDQHc-62" value="价格策略如何定义？" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#FFFF99;" parent="1" vertex="1">
-          <mxGeometry x="590" y="-340" width="120" height="60" as="geometry" />
+        <mxCell id="VZaIuahMytYnxe0hDQHc-62" value="价格策略如何定义？&lt;br&gt;传输到后端也需要校验价格" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#FFFF99;" parent="1" vertex="1">
+          <mxGeometry x="600" y="-400" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VZaIuahMytYnxe0hDQHc-64" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" source="VZaIuahMytYnxe0hDQHc-38" target="VZaIuahMytYnxe0hDQHc-62" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -252,6 +252,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-470" y="-370" as="sourcePoint" />
             <mxPoint x="-420" y="-420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmTWPRrh8DY9wcVOX-z-2" value="删除购物车中的商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmTWPRrh8DY9wcVOX-z-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="1" source="VZaIuahMytYnxe0hDQHc-9" target="pvmTWPRrh8DY9wcVOX-z-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="210" y="-160" as="sourcePoint" />
+            <mxPoint x="370" y="-160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pvmTWPRrh8DY9wcVOX-z-4" value="交互稿并没有删除功能，确定没有？" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-440" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pvmTWPRrh8DY9wcVOX-z-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pvmTWPRrh8DY9wcVOX-z-2" target="pvmTWPRrh8DY9wcVOX-z-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="-280" as="sourcePoint" />
+            <mxPoint x="440" y="-330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
