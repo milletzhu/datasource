@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T07:40:37.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Y6cNJJDPHf5I867MYlwE" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T07:56:55.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="EyHZboiFKTXV3IEuF3si" version="21.3.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1947" dy="1621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="vWXfaH1pGNp-byhTUiaN-76" value="保存文生图配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-46" y="430" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vWXfaH1pGNp-byhTUiaN-77" value="保存第三方接口调用配置&lt;br&gt;???" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vWXfaH1pGNp-byhTUiaN-77" value="保存第三方接口调用配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-520" y="286" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vWXfaH1pGNp-byhTUiaN-78" value="保存controlNet配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -187,6 +187,9 @@
           <mxGeometry x="-510" y="785" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vWXfaH1pGNp-byhTUiaN-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vWXfaH1pGNp-byhTUiaN-131" target="vWXfaH1pGNp-byhTUiaN-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vWXfaH1pGNp-byhTUiaN-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vWXfaH1pGNp-byhTUiaN-131" target="vWXfaH1pGNp-byhTUiaN-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vWXfaH1pGNp-byhTUiaN-131" value="生成最终结果，保存作品" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
