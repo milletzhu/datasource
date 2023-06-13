@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T09:13:13.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="YZjGL70fP-7ycL8UAgCe" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T09:13:50.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="21lCoB8Fm6qtp4jZNe2n" version="21.3.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1947" dy="1621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="vWXfaH1pGNp-byhTUiaN-77" value="保存第三方接口调用配置&lt;br&gt;通过插件来进行扩展" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-520" y="286" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vWXfaH1pGNp-byhTUiaN-78" value="保存controlNet配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vWXfaH1pGNp-byhTUiaN-78" value="保存controlNet配置&lt;br&gt;重难点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-394" y="417" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vWXfaH1pGNp-byhTUiaN-79" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vWXfaH1pGNp-byhTUiaN-69" target="vWXfaH1pGNp-byhTUiaN-75">
